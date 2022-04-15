@@ -1,0 +1,13 @@
+[Inputs]
+N
+OV
+Z
+C
+Branch
+=Offset[4:0]=
+=BranchType[2:0]=
+=PC[5:0]=
+[Outputs]
+CarryOUT
+=New_PC[5:0]=
+[BiDir]
