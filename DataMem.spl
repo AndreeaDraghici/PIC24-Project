@@ -1,0 +1,11 @@
+[Inputs]
+Clk
+Wr
+=INW0[15:0]=
+=INW1[15:0]=
+=Addr[4:0]=
+=DataIn[15:0]=
+[Outputs]
+=OUTW0[15:0]=
+=DataOut[15:0]=
+[BiDir]
